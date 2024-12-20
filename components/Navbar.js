@@ -1,0 +1,1 @@
+export default function Navbar() { return <nav><a href='/'>Home</a><a href='/products'>Shop</a><a href='/cart'>Cart</a><a href='/login'>Login</a></nav>; }
